@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_quiry_quiries",
+  "info": {
+    "displayName": "Quiry",
+    "icon": "phone"
+  },
+  "options": {},
+  "attributes": {
+    "InputData": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
