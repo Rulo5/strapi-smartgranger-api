@@ -2,7 +2,8 @@
   "collectionName": "components_companydata_company_data",
   "info": {
     "displayName": "CompanyData",
-    "icon": "allergies"
+    "icon": "allergies",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -15,11 +16,7 @@
       "required": true
     },
     "icons": {
-      "allowedTypes": [
-        "images"
-      ],
-      "type": "media",
-      "multiple": true,
+      "type": "string",
       "required": true
     }
   }

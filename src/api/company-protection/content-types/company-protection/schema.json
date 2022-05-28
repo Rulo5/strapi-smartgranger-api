@@ -4,7 +4,8 @@
   "info": {
     "singularName": "company-protection",
     "pluralName": "company-protections",
-    "displayName": "CompanyProtection"
+    "displayName": "CompanyProtection",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true

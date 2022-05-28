@@ -2,21 +2,17 @@
   "collectionName": "components_socialmedia_social_medias",
   "info": {
     "displayName": "SocialMedia",
-    "icon": "barcode"
+    "icon": "barcode",
+    "description": ""
   },
   "options": {},
   "attributes": {
-    "uri": {
+    "icons": {
       "type": "string",
       "required": true
     },
-    "icons": {
-      "allowedTypes": [
-        "images"
-      ],
-      "type": "media",
-      "multiple": true,
-      "required": true
+    "socialNetworkName": {
+      "type": "string"
     }
   }
 }

@@ -2,23 +2,20 @@
   "collectionName": "components_qualification_qualifications",
   "info": {
     "displayName": "qualification",
-    "icon": "star"
+    "icon": "star",
+    "description": ""
   },
   "options": {},
   "attributes": {
-    "icon": {
-      "allowedTypes": [
-        "images"
-      ],
-      "type": "media",
-      "multiple": true,
-      "required": true
-    },
     "worth": {
       "type": "string",
       "required": true
     },
     "attribute": {
+      "type": "string",
+      "required": true
+    },
+    "icons": {
       "type": "string",
       "required": true
     }

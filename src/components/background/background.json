@@ -2,7 +2,8 @@
   "collectionName": "components_background_backgrounds",
   "info": {
     "displayName": "background",
-    "icon": "square-full"
+    "icon": "square-full",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -15,12 +16,12 @@
       "required": true
     },
     "image": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
       "allowedTypes": [
         "images"
-      ],
-      "type": "media",
-      "multiple": true,
-      "required": true
+      ]
     }
   }
 }
